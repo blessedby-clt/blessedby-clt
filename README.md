@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blessedby-clt.tistory.com/)](https://blessedby-clt.tistory.com/) 
 <!--
 **blessedby-clt/blessedby-clt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
