@@ -1,4 +1,8 @@
-### Hi there 👋
+### My experience ✨
+- graduated from Yonsei University(Applied statistics & Economics)
+- IT consultant
+- researcher
+- data analyst
 
 
 <div align=center>
