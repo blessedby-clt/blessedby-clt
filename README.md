@@ -1,14 +1,13 @@
 ### My experience ✨
 - graduated from Yonsei University(Applied statistics & Economics)
-- IT consultant
-- researcher
+- IT consultant & researcher
 - data analyst
 
 ### Interest 🤔
 - extract insight from data!
 - good visualizing
 - learning statistics
-- Writing, good relationship with coworkers
+- writing, good relationship with coworkers
 
 
 <div align=left>
