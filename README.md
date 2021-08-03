@@ -4,7 +4,7 @@
 - data analyst
 
 ### Interest 🤔
-- extract insight from data!
+- extracting insight from data!
 - good visualizing
 - learning statistics
 - good writing
