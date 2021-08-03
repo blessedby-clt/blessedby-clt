@@ -7,7 +7,7 @@
 - extract insight from data!
 - good visualizing
 - learning statistics
-- writing, good relationship with coworkers
+- good writing
 
 
 <div align=left>
