@@ -4,8 +4,14 @@
 - researcher
 - data analyst
 
+### Interest 🤔
+- extract insight from data!
+- good visualizing
+- learning statistics
+- Writing, good relationship with coworkers
 
-<div align=center>
+
+<div align=left>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blessedby-clt.tistory.com/)](https://blessedby-clt.tistory.com/) 
 <!--
