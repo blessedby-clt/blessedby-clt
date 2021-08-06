@@ -1,5 +1,5 @@
 ### My experience ✨
-- graduated from Yonsei University (Applied statistics & Economics)
+- graduated from Yonsei University (Applied statistics❤ & Economics)
 - IT consultant & researcher
 - data analyst
 
